@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ian👋</h1>
 <h3 align="center">A young and enthusiastic developer</h3>
 
-- I’m currently working on **The backend for a game**
+- I’m currently working on **the backend for a game**
 
-- I have a website [ifighter.github.io](ifighter.github.io)
+- I have a website [Dev-Wood.github.io](Dev-Wood.github.io)
 
 - I'm currently learning **game.py**
 
