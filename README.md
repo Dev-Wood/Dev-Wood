@@ -3,7 +3,7 @@
 
 - I’m currently working on **the backend for a game**
 
-- I have a website [Dev-Wood.github.io](Dev-Wood.github.io)
+- I have a website [Dev-Wood.github.io](dev-wood.github.io)
 
 - I'm currently learning **game.py**
 
