@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ian👋</h1>
 <h3 align="center">A young and enthusiastic developer</h3>
 
-- I’m currently working on **the backend for a game**
+- I’m currently working on **Webstory** a website with bedtime stories for kids.
 
 - I have a website [Dev-Wood.github.io](dev-wood.github.io)
 
